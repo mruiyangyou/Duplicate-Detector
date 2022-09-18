@@ -1,0 +1,21 @@
+.title-heading {
+    font-family: 'Oswald';
+    font-size: 5rem;
+    text-align: center;
+    /* margin-top: 100px; */
+}
+
+.input-cell {
+    font-family: 'Nanum Gothic';
+    width: 520px;
+    position: absolute;
+    left: 32.5%;
+    top: 25%;
+}
+
+
+
+/* Output */
+.btn-submit {
+    margin-bottom: 16px;
+}
